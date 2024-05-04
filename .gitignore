@@ -159,5 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 meta-llama/
-Meta-Llama-3-8B/
-Meta-Llama-3-8B-Instruct/
+Meta-Llama-*/
